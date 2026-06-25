@@ -1,6 +1,7 @@
 GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
-size : 50MB
-This is a new line added for code review practice.
+repository size limit = 50MB
+This is a new line added for code review Practice.
 Please check if there are any typos or style issues here.
+PLEASE CHECK FOR ANY TYPOS
